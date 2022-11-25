@@ -22,7 +22,7 @@ let dayOfWeek = 4
 
             case 7:
            print("Saturday")
-           
+           // Kondisi default ketika case tidak terpenuhi            
            default:
            print("Invalid day")
 
