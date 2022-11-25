@@ -7,3 +7,6 @@ var hasil: Bool
 
 hasil = (a>b) && (a>c)
 print(hasil)
+
+hasil = (a>b) || (a>c)
+print(hasil)
